@@ -1,0 +1,12 @@
+Adobe After Effects v13.5 Windows 64 render log for project “projek NASA.aep”
+
+Rendering started on 26/12/2022 at 20.03.28
+
+  26/12/2022 20.03.28: Starting composition “animasi”.
+
+  Output To: D:\Projek NASA\Result\animasi.avi    26/12/2022 20.20.56: Finished composition “animasi”.
+
+
+  Total Time Elapsed: 17 Min, 28 Sec
+Log closed on 26/12/2022 at 20.20.56
+
